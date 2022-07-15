@@ -1,0 +1,9 @@
+Mensagem(1):testando chat
+Mensagem(2):boa tarde
+Mensagem(3):tudo bem?
+conversa encerrada
+
+Mensagem(1):opa
+Mensagem(2):desculpa a demora
+conversa encerrada
+
