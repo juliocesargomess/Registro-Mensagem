@@ -7,3 +7,6 @@ Mensagem(1):opa
 Mensagem(2):desculpa a demora
 conversa encerrada
 
+Mensagem(1):testando, github
+conversa encerrada
+
